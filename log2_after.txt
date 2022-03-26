@@ -1,0 +1,77 @@
+CELESTE : 1.4.0.0
+(03/26/2022 22:29:46) [Everest] [Info] [core] Booting Everest
+(03/26/2022 22:29:46) [Everest] [Info] [core] AppDomain: Celeste.exe+Everest
+(03/26/2022 22:29:46) [Everest] [Info] [core] VersionCelesteString: 1.4.0.0-fna [Everest: 3282-azure-27da1]
+(03/26/2022 22:29:46) [Everest] [Info] [core] SystemMemoryMB: 7727.859 MB
+(03/26/2022 22:29:46) [Everest] [Verbose] [discord] Discord_Initialize found - initializing Discord Rich Presence, app ID 430794114037055489
+(03/26/2022 22:29:46) [Everest] [Verbose] [core] Redirecting Assembly.GetTypes => Extensions.GetTypesSafe in System.Reflection.MethodInfo[] DMD<NLua.Extensions.TypeExtensions::GetExtensionMethods>?-188385470::NLua.Extensions.TypeExtensions::GetExtensionMethods(System.Type,System.String,System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>), index 14
+(03/26/2022 22:29:46) [Everest] [Verbose] [core] Redirecting Assembly.GetTypes => Extensions.GetTypesSafe in System.Reflection.MethodInfo[] DMD<NLua.Extensions.TypeExtensions::GetExtensionMethods>?-188385470::NLua.Extensions.TypeExtensions::GetExtensionMethods(System.Type,System.String,System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>), index 43
+(03/26/2022 22:29:46) [Everest] [Verbose] [core] log.txt history: keeping 3 file(s) of history, deleting LogHistory/log_20220326_145911.txt
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module Everest 1.3282.0 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module Celeste 1.4.0.0 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module DialogCutscene 1.0.0 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module UpdateChecker 1.0.2 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module InfiniteSaves 1.0.0 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module DebugRebind 1.0.0 registered.
+(03/26/2022 22:29:46) [Everest] [Info] [core] Module RebindPeriod 1.0.0 registered.
+(03/26/2022 22:29:46) [Everest] [Verbose] [Everest.LuaLoader] Found built-in Lua boot script.
+(03/26/2022 22:29:46) [Everest] [Verbose] [Everest.LuaLoader] Creating Lua context and running Lua boot script.
+(03/26/2022 22:29:47) [Everest] [Info] [Everest.LuaBoot] Lua ready.
+(03/26/2022 22:29:47) [Everest] [Verbose] [Everest.LuaTypeBuilder] Found built-in Lua typebuilder script.
+(03/26/2022 22:29:47) [Everest] [Verbose] [loader] Loading mod directory: /home/microlith57/.config/itch/apps/celeste/Mods/LiveReloadTestMod
+(03/26/2022 22:29:47) [Everest] [Verbose] [relinker] Loading cached assembly for LiveReloadTestMod 1.0.0 - LiveReloadTestMod
+(03/26/2022 22:29:47) [Everest] [Info] [core] Module LiveReloadTestMod 1.0.0 registered.
+(03/26/2022 22:29:47) [Everest] [Info] [loader] Loading mods with unsatisfied optional dependencies (if any)
+(03/26/2022 22:29:47) [Everest] [Verbose] [loader] ALL MODS LOADED IN 247ms
+(03/26/2022 22:29:47) [Everest] [Verbose] [ModUpdaterHelper] Fetching mod updater database URL
+Using EXT_swap_control_tear VSync!
+FNA3D Driver: OpenGL
+OpenGL Renderer: Mesa Intel(R) UHD Graphics (ICL GT1)
+OpenGL Driver: 4.6 (Compatibility Profile) Mesa 21.2.6
+OpenGL Vendor: Intel
+MojoShader Profile: glsl120
+BEGIN LOAD
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: combo
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: superwalljump
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: too_close
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: too_far
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: wavedash
+(03/26/2022 22:29:47) [Everest] [Verbose] [PlaybackData] Loading vanilla tutorial: wavedashppt
+(03/26/2022 22:29:48) [Everest] [Verbose] [ModUpdaterHelper] Downloading last versions list from https://max480-random-stuff.appspot.com/celeste/everest_update.yaml
+ - GFX LOAD: 354ms
+ - MTN LOAD: 23ms
+Using EXT_swap_control_tear VSync!
+WINDOW-1920x1080
+GAME DISPLAYED (in 571ms)
+Using EXT_swap_control_tear VSync!
+Using EXT_swap_control_tear VSync!
+ - AUDIO LOAD: 365ms
+ - GFX DATA LOAD: 248ms
+ - MTN DATA LOAD: 57ms
+(03/26/2022 22:29:49) [Everest] [Warn] [Language] Conflict for dialog key schinese/BEGIN (?!?!?! vs Everest)
+(03/26/2022 22:29:49) [Everest] [Verbose] [PixelFont] Loading font: /home/microlith57/.config/itch/apps/celeste/Content/Dialog/Fonts/renogare192.fnt
+(03/26/2022 22:29:49) [Everest] [Verbose] [PixelFont] => vanilla font file
+(03/26/2022 22:29:49) [Everest] [Verbose] [PixelFont] Loading font: /home/microlith57/.config/itch/apps/celeste/Content/Dialog/Fonts/renogare64.fnt
+(03/26/2022 22:29:49) [Everest] [Verbose] [PixelFont] => vanilla font file
+ - DIA/FONT LOAD: 274ms
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 0: Celeste/0-Intro - 1 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 1: Celeste/1-ForsakenCity - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 2: Celeste/2-OldSite - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 3: Celeste/3-CelestialResort - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 4: Celeste/4-GoldenRidge - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 5: Celeste/5-MirrorTemple - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 6: Celeste/6-Reflection - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 7: Celeste/7-Summit - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 8: Celeste/8-Epilogue - 1 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 9: Celeste/9-Core - 3 sides
+(03/26/2022 22:29:50) [Everest] [Verbose] [AreaData] 10: Celeste/LostLevels - 1 sides
+ - MODDED MTN LOAD: 1ms
+ - MODDED MTN DATA LOAD: 0ms
+ - LEVELS LOAD: 694ms
+ - FASTTEXTURELOADING LOAD: 3ms
+DONE LOADING (in 2476ms)
+(03/26/2022 22:29:50) [Everest] [Verbose] [ModUpdaterHelper] Downloaded 1077 item(s)
+(03/26/2022 22:29:50) [Everest] [Verbose] [ModUpdaterHelper] Checking for updates
+(03/26/2022 22:29:50) [Everest] [Verbose] [ModUpdaterHelper] 0 update(s) available
+(03/26/2022 22:29:50) [Everest] [Info] [debugrc] Started DebugRC thread, available via http://localhost:32270/
+(03/26/2022 22:29:58) [Everest] [Info] [LevelLoader] Loading level Celeste/8-Epilogue
